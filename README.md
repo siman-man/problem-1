@@ -22,21 +22,9 @@
 * 「元号を改める政令（昭和６４年１月７日）」によると
 　昭和６４年は「１月７日」までで、平成元年は「１月８日」から。
 
-## 応用問題
-
-問題が早く解けた方は、次のいずれかの応用問題にトライしてください。
-
-### 1. ショートコーディング（推奨）
+## 応用問題 - ショートコーディング
 
 出題された問題を、出来るだけ短い文字数で書くプログラムを書いてみましょう！例えば、`if` 文ではなく `&&` を使うことで、プログラムはより短くなります。また、`date` や `time` オブジェクトに変換しなくても...!?
-
-### 2. 数字→漢字変換プログラム
-
-日付に使用した数字列を、すべて漢字に変換してください。例えば、`2012-10-20` が入力されたとき、 `平成二十四年十月二十日` を出力します。
-
-### 3. ひらがな変換プログラム
-
-入力された西暦の日付を和暦に変換し、ひらがなで出力するプログラムを書いてください。例えば、`2012-10-20` が入力されたとき、`へいせいにじゅうねんじゅうがつはつか` を出力します。
 
 
 ## Problem (English)
@@ -61,19 +49,8 @@ To get you started, I've reproduced part of [a table of era information](http://
 * 「元号を改める政令（昭和６４年１月７日）」によると
 　昭和６４年は「１月７日」までで、平成元年は「１月８日」から。
 
-## Extensions
-
-Once you've completed the above, try out some of the following extensions.
-
-### Short Coding!
+## Extensions - Short Coding!
 
 Make the program you wrote shorter as possible as you can! For example, use `&&` operator instead of `if` condition. Also, you don't have to use `date` or `time` to compare. Did you notice that?
 
-### Kanji Numerals
-
-Write your dates only using Kanji! For instance, 2012-10-20 becomes 平成二十四年十月二十日.
-
-### Pronunciation of Dates
-
-Have an option to output the reading of the dates. For instance, 2012-10-20 becomes へいせいにじゅうねんじゅうがつはつか.
 
