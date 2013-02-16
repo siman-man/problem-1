@@ -49,8 +49,10 @@ To get you started, I've reproduced part of [a table of era information](http://
 * 「元号を改める政令（昭和６４年１月７日）」によると
 　昭和６４年は「１月７日」までで、平成元年は「１月８日」から。
 
-## Extensions - Short Coding!
+## Extensions - Short Coding (a.k.a. Code Golf)!
 
-Make the program you wrote shorter as possible as you can! For example, use `&&` operator instead of `if` condition. Also, you don't have to use `date` or `time` to compare. Did you notice that?
+Nicely done! From now, let's give a try to make the program you wrote shorter as possible as you can! 
+For example, use `&&` operator instead of `if` condition. 
+Also, you don't have to use `date` or `time` to compare. Did you notice that?
 
 
